@@ -1,0 +1,10 @@
+Pyrite
+By Darren M. Struthers <dstruthers@gmail.com>
+
+OVERVIEW
+This is a very basic Scheme dialect developed solely to improve the author's
+Haskell skills.
+
+LICENSING
+This is free software licensed under the terms of the X11 license. See LICENSE
+for more information.
